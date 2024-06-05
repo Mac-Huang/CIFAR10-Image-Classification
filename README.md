@@ -1,4 +1,3 @@
-```markdown
 # CIFAR10 Image Classification
 
 This project demonstrates various machine learning methods for image classification based on the CIFAR10 dataset.
